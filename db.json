@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum Dolor.",
+      "author": "BWeave",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt facere dolorum repellendus, sint recusandae vel error nihil. Recusandae excepturi magni maxime quae adipisci sunt nemo. Distinctio doloribus debitis eos culpa ipsam, quos, neque officiis qui architecto, aperiam aut, minima doloremque.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa deserunt illo obcaecati ea expedita totam laudantium id amet tempora dolore deleniti reprehenderit porro nobis, ipsa veniam labore consequatur commodi quasi. Earum facere, aperiam cupiditate deserunt accusamus dolores tenetur magnam consectetur laudantium voluptatibus alias consequuntur sint, odio minus molestias. Velit, reprehenderit.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Lorem Plurt Prez.",
+      "author": "Plurt4President",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt facere dolorum repellendus, sint recusandae vel error nihil. Recusandae excepturi magni maxime quae adipisci sunt nemo. Distinctio doloribus debitis eos culpa ipsam, quos, neque officiis qui architecto, aperiam aut, minima doloremque.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa deserunt illo obcaecati ea expedita totam laudantium id amet tempora dolore deleniti reprehenderit porro nobis, ipsa veniam labore consequatur commodi quasi. Earum facere, aperiam cupiditate deserunt accusamus dolores tenetur magnam consectetur laudantium voluptatibus alias consequuntur sint, odio minus molestias. Velit, reprehenderit.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Lorem Roar Rox.",
+      "author": "Roarbecca",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt facere dolorum repellendus, sint recusandae vel error nihil. Recusandae excepturi magni maxime quae adipisci sunt nemo. Distinctio doloribus debitis eos culpa ipsam, quos, neque officiis qui architecto, aperiam aut, minima doloremque.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa deserunt illo obcaecati ea expedita totam laudantium id amet tempora dolore deleniti reprehenderit porro nobis, ipsa veniam labore consequatur commodi quasi. Earum facere, aperiam cupiditate deserunt accusamus dolores tenetur magnam consectetur laudantium voluptatibus alias consequuntur sint, odio minus molestias. Velit, reprehenderit.</p>"
+    }
+  ]
+}

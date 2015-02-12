@@ -1,0 +1,16 @@
+{
+  "name": "angular-intro",
+  "version": "0.0.1",
+  "authors": [
+    "Brian Weaver <bdrums@gmail.com>"
+  ],
+  "description": "Intro to Angular for the NPM Digital Team",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
